@@ -8,6 +8,9 @@ This describe the developer fields used to add additional data to FIT data files
 - Second Heart Rate Monitor
 - ECG data
 - Second Power Meter or FEC
+- MO2 sensor
+- VO2 sensor
+- Core temperature sensor
 
 Generally these are intended to facilitate:
 
